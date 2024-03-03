@@ -1,0 +1,19 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "CMH Library",
+    "description": "This addon contains symbols and footprints from the CMH KidCad Library.",
+    "description_full": "This addon contains symbols and footprints from the CMH KidCad Library. All packages are meant for development use only.",
+    "identifier": "com.github.cmhettinger.cmh-kicad-library",
+    "type": "library",
+    "author": {
+        "name": "cmhettinger",
+        "contact": {
+            "web": "https://github.com/cmhettinger"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://github.com/cmhettinger/cmh-kicad-library"
+    },
+    "versions": []
+}

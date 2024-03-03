@@ -1,0 +1,31 @@
+
+#
+# components for pcbs designed with kicad
+# http://www.kicad.org/
+#
+
+# autorouter files
+*.dsn
+*.ses
+
+# compressed files
+*.zip
+
+# netlist files
+*.net
+
+# bom files
+*.xml
+*.csv
+
+# temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+
+# build files
+build/
