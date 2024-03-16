@@ -32,7 +32,7 @@ To install this library in KiCad 8, follow the steps below to use KiCad's Packag
 
 === License
 
-Copyright 2024, link:https://github.com/cmhettinger/cmh-kicad-library[cmhettinger]
+Copyright 2024, link:https://github.com/cmhettinger[cmhettinger]
 
 Except as otherwise noted, all content of this library is licensed under the 
 link:https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0 International License], with the following additional exception:
@@ -41,7 +41,6 @@ link:https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attributio
 To the extent that the creation of electronic designs that use the Licensed Material can be considered to be Adapted Material, the Licensor waives Section 3 of the Public License with respect to these electronic designs and any generated files which incorporate data provided as part of the Licensed Material.
 [end]
 
-p{xml-namespace-uri=http://creativecommons.org/ns#}[[cmh-kicad-library]]
 link:https://github.com/cmhettinger/cmh-kicad-library[cmh-kicad-library] by link:https://github.com/cmhettinger[cmhetttinger] is licensed under link:http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1[CC BY-SA 4.0]
 image:https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1[CC]
 image:https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1[BY]
