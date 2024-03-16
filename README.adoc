@@ -54,6 +54,7 @@ To the extent that the creation of electronic designs that use the Licensed Mate
 
 == KiCad Official Links
 
-* https://www.kicad.org/
-* https://klc.kicad.org/
-* https://kicad.github.io/
+* https://www.kicad.org[KiCad]
+* https://klc.kicad.org[KiCad Library Conventions]
+* https://kicad.github.io[KiCad Official Libraries]
+* https://dev-docs.kicad.org/en/addons[KiCad Addon Documentation]
