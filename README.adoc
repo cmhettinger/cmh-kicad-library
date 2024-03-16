@@ -64,3 +64,4 @@ However, if you wish to redistribute the cmh-kicad-library, or parts thereof (in
 * https://gitlab.com/kicad/libraries[KiCad Official Libraries (gitlab)]
 * https://dev-docs.kicad.org/en/addons[KiCad Addon Documentation]
 * https://dev-docs.kicad.org/en/file-formats/sexpr-intro/index.html[KiCad S-Expression Format]
+* https://chooser-beta.creativecommons.org[Creative Commons License Chooser]
