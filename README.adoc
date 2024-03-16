@@ -2,7 +2,7 @@
 
 == cmh-kicad-library
 
-image:https://www.repostatus.org/badges/latest/active.svg[Project Status: Active – The project has reached a stable, usable state and is being actively developed, link=https://www.repostatus.org/#active] image:https://img.shields.io/badge/kicad-%3E%3D8.0-critical[Required KiCad Version] image:https://img.shields.io/github/license/cmhettinger/cmh-kicad-library[License] image:https://img.shields.io/github/v/release/cmhettinger/cmh-kicad-library[GitHub release (latest SemVer)] image:https://img.shields.io/badge/symbols-1-informational[Symbols] image:https://img.shields.io/github/downloads/cmhettinger/cmh-kicad-library/total[Downloads]
+image:https://www.repostatus.org/badges/latest/active.svg[Project Status: Active – The project has reached a stable, usable state and is being actively developed, link=https://www.repostatus.org/#active] image:https://img.shields.io/badge/kicad-%3E%3D8.0-critical[Required KiCad Version] image:https://img.shields.io/github/license/cmhettinger/cmh-kicad-library[License] image:https://img.shields.io/github/v/release/cmhettinger/cmh-kicad-library[GitHub release (latest SemVer)] image:https://img.shields.io/badge/symbols-1-informational[Symbols] image:https://img.shields.io/badge/footprints-1-informational[Footprints] image:https://img.shields.io/github/downloads/cmhettinger/cmh-kicad-library/total[Downloads]
 
 
   _    _               _   _ _ _                          
@@ -22,7 +22,7 @@ This library has only been tested with KiCad 8.
 === Library Installation
 To install this library in KiCad 8, follow the steps below to use KiCad's Package and Content Manager (PCM):
 
-* Download the `cmh-kicad-library-x.x.x-addon.zip` library file from the https://github.com/cmhettinger/cmh-kicad-library/releases[Releases page]
+* Download the `cmh-kicad-library-x.x.x-addon.zip` library file from https://github.com/cmhettinger/cmh-kicad-library/releases[Releases]
 * Open KiCad
 * Click "Plugin and Content Manager"
 * Click "Install from File..."
