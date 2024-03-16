@@ -32,7 +32,7 @@ To install this library in KiCad 8, follow the steps below to use KiCad's Packag
 
 === License
 
-link:https://github.com/cmhettinger/cmh-kicad-library[cmh-kicad-library] by link:https://github.com/cmhettinger[cmhetttinger] is licensed under link:http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1[CC BY-SA 4.0]
+cmh-kicad-library © 2024 by cmhetttinger is licensed under link:http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1[CC BY-SA 4.0]
 image:https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1[CC, width=20, height=20]
 image:https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1[BY, width=20, height=20]
 image:https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1[SA, width=20, height=20]
