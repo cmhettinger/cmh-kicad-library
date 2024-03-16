@@ -57,4 +57,6 @@ To the extent that the creation of electronic designs that use the Licensed Mate
 * https://www.kicad.org[KiCad]
 * https://klc.kicad.org[KiCad Library Conventions]
 * https://kicad.github.io[KiCad Official Libraries]
+* https://gitlab.com/kicad/libraries[KiCad Official Libraries (gitlab)]
 * https://dev-docs.kicad.org/en/addons[KiCad Addon Documentation]
+* https://dev-docs.kicad.org/en/file-formats/sexpr-intro/index.html[KiCad S-Expression Format]
