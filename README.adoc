@@ -14,7 +14,7 @@ image:https://www.repostatus.org/badges/latest/active.svg[Project Status: Active
                                                      __/ |
                                                     |___/ 
 
-This is a library of KiCad schematic symbols for a variety of microchips and components.
+This is a library of various KiCad schematic symbols and footprints.
 
 === KiCad Version Compatibility
 This library has only been tested with KiCad 8.
@@ -43,6 +43,14 @@ link:https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attributio
 [quote]
 To the extent that the creation of electronic designs that use the Licensed Material can be considered to be Adapted Material, the Licensor waives Section 3 of the Public License with respect to these electronic designs and any generated files which incorporate data provided as part of the Licensed Material.
 [end]
+
+== Library Symbols
+
+* ESP32-C3-DevKitC-02
+
+== Library Footprints
+
+* ESP32-C3-DevKitC-02
 
 == KiCad Official Links
 
