@@ -20,17 +20,15 @@ This is a library of KiCad schematic symbols for a variety of microchips and com
 This library has only been tested with KiCad 8.
 
 === Library Installation
-To install this library in KiCad 8, follow the steps below to use KiCad's Package and Content Manager (PCM).
+To install this library in KiCad 8, follow the steps below to use KiCad's Package and Content Manager (PCM):
 
-https://github.com/cmhettinger/cmh-kicad-library/releases/download/0.1.0/cmh-kicad-library-addon.zip
-
-1. Download the `cmh-kicad-library-x.x.x-addon.zip` library file from the https://github.com/cmhettinger/cmh-kicad-library/releases[Releases page]
-2. Open KiCad
-3. Click "Plugin and Content Manager"
-4. Click "Install from File..."
-5. Select the library file you downloaded in step 1
-6. The library should now be listed in the "Installed" tab.
-7. Close the Plugin and Content Manager
+* Download the `cmh-kicad-library-x.x.x-addon.zip` library file from the https://github.com/cmhettinger/cmh-kicad-library/releases[Releases page]
+* Open KiCad
+* Click "Plugin and Content Manager"
+* Click "Install from File..."
+* Select the library file you downloaded in step 1
+* The library should now be listed in the "Installed" tab.
+* Close the Plugin and Content Manager
 
 == KiCad Official Links
 
