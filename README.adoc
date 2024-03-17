@@ -1,6 +1,8 @@
 :toc:
 
-= Overview : cmh-kicad-library
+= cmh-kicad-library
+
+image:https://www.repostatus.org/badges/latest/active.svg[Project Status: Active – The project has reached a stable, usable state and is being actively developed, link=https://www.repostatus.org/#active] image:https://img.shields.io/badge/kicad-%3E%3D8.0-critical[Required KiCad Version] image:https://img.shields.io/github/license/cmhettinger/cmh-kicad-library[License] image:https://img.shields.io/github/v/release/cmhettinger/cmh-kicad-library[GitHub release (latest SemVer)] image:https://img.shields.io/badge/symbols-1-informational[Symbols] image:https://img.shields.io/github/downloads/cmhettinger/cmh-kicad-library/total[Downloads]
 
   _    _               _   _ _ _                          
  | |  (_)             | | | (_) |                         
@@ -11,14 +13,23 @@
                                                      __/ |
                                                     |___/ 
 
-Version 0.1.0
-
-image:https://www.repostatus.org/badges/latest/active.svg[Project Status: Active – The project has reached a stable, usable state and is being actively developed, link=https://www.repostatus.org/#active] image:https://img.shields.io/badge/kicad-%3E%3D8.0-critical[Required KiCad Version] image:https://img.shields.io/github/license/cmhettinger/cmh-kicad-library[License] image:https://img.shields.io/github/v/release/cmhettinger/cmh-kicad-library[GitHub release (latest SemVer)] image:https://img.shields.io/badge/symbols-1-informational[Symbols] image:https://img.shields.io/github/downloads/cmhettinger/cmh-kicad-library/total[Downloads]
-
 This is a library of KiCad schematic symbols for a variety of microchips and components.
 
 ## KiCad Version Compatibility
-This library has only been tested with KiCad 8, but should work fine with KiCad 7. Note that the installation will differ for versions before KiCad 8.
+This library has only been tested with KiCad 8.
+
+## Library Installation
+To install this library in KiCad 8, follow the steps below to use KiCad's Package and Content Manager (PCM).
+
+https://github.com/cmhettinger/cmh-kicad-library/releases/download/0.1.0/cmh-kicad-library-addon.zip
+
+1. Download the `cmh-kicad-library-x.x.x-addon.zip` library file from the https://github.com/cmhettinger/cmh-kicad-library/releases[Releases page]
+2. Open KiCad
+3. Click "Plugin and Content Manager"
+4. Click "Install from File..."
+5. Select the library file you downloaded in step 1
+6. The library should now be listed in the "Installed" tab.
+7. Close the Plugin and Content Manager
 
 == KiCad Official Links
 
