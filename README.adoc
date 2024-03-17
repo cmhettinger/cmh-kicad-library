@@ -20,6 +20,8 @@ image::https://img.shields.io/github/v/release/cmhettinger/cmh-kicad-library[Git
 image::https://img.shields.io/badge/symbols-1-informational[Symbols]
 image::https://img.shields.io/github/downloads/cmhettinger/cmh-kicad-library/total[Downloads]
 
+image:https://www.repostatus.org/badges/latest/active.svg[Project Status: Active – The project has reached a stable, usable state and is being actively developed, link=https://www.repostatus.org/#active] image:https://img.shields.io/badge/kicad-%3E%3D6.0-critical[Required KiCad Version] image:https://img.shields.io/github/license/alarm-siren/6502-kicad-library[License] image:https://img.shields.io/github/v/release/alarm-siren/6502-kicad-library[GitHub release (latest SemVer)] image:https://img.shields.io/badge/symbols-75-informational[Symbols] image:https://img.shields.io/github/downloads/alarm-siren/6502-kicad-library/total[Downloads]
+
 This is a library of KiCad schematic symbols for a variety of microchips and components.
 
 ## KiCad Version Compatibility
