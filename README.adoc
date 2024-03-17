@@ -1,6 +1,6 @@
 :toc:
 
-== Overview
+= Overview : cmh-kicad-library
 
   _    _               _   _ _ _                          
  | |  (_)             | | | (_) |                         
@@ -11,18 +11,11 @@
                                                      __/ |
                                                     |___/ 
 
-= cmh-kicad-library: KiCad Library
-
 Version 0.1.0
 
-image::https://www.repostatus.org/badges/latest/active.svg[Project Status: Active – The project has reached a stable, usable state and is being actively developed., link="repostatus.org "]
-image::https://img.shields.io/badge/kicad->%3D8.0-critical[Required KiCad Version]
-image::https://img.shields.io/github/license/cmhettinger/cmh-kicad-library[License]
-image::https://img.shields.io/github/v/release/cmhettinger/cmh-kicad-library[GitHub release (latest SemVer)]
-image::https://img.shields.io/badge/symbols-1-informational[Symbols]
-image::https://img.shields.io/github/downloads/cmhettinger/cmh-kicad-library/total[Downloads]
+image::https://www.repostatus.org/badges/latest/active.svg[Project Status: Active – The project has reached a stable, usable state and is being actively developed., link="repostatus.org "] image::https://img.shields.io/badge/kicad->%3D8.0-critical[Required KiCad Version] image::https://img.shields.io/github/license/cmhettinger/cmh-kicad-library[License] image::https://img.shields.io/github/v/release/cmhettinger/cmh-kicad-library[GitHub release (latest SemVer)] image::https://img.shields.io/badge/symbols-1-informational[Symbols] image::https://img.shields.io/github/downloads/cmhettinger/cmh-kicad-library/total[Downloads]
 
-This is a library of KiCad schematic symbols for a variety of Commodore, MOS Technology and Western Design Center retro microchips, including the eponymous MOS Technology 6502.
+This is a library of KiCad schematic symbols for a variety of microchips and components.
 
 ## KiCad Version Compatibility
 This library has only been tested with KiCad 8, but should function fine with KiCad 7 to function. Note that the installation will differ for versions before KiCad 8.
